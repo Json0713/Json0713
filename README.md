@@ -27,7 +27,6 @@ A passionate solo developer crafting fast, accessible, and responsive web experi
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
 
 ### Frameworks & Libraries
@@ -39,7 +38,7 @@ A passionate solo developer crafting fast, accessible, and responsive web experi
 ![CLI](https://img.shields.io/badge/CLI-Terminal-555555?logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-![SPCK](https://img.shields.io/badge/SPCK-Editor-blue?logo=visualstudiocode)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FA7F24?logo=xampp&logoColor=white)
 
 ---
