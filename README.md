@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm INDI — Frontend Developer
+# 👋 Hi there, Im a — Frontend Developer
 
-A passionate solo developer crafting fast, accessible, and responsive web experiences. Specializing in modular UI, component-based architecture, and mobile-first design.
+A passionate solo developer crafting fast, accessible, and responsive web experiences. Specializing in modular UI, component-based architecture.
 
 ---
 
