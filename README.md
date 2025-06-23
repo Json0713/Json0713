@@ -5,12 +5,12 @@ A passionate solo developer crafting fast, accessible, and responsive web experi
 ---
 
 ## 🚀 About Me
-- 🧠 Self-taught web and software developer
-- 🧰 Working With Web applications both Mobile and Desktop compatibility and responsives**SPCK**, **XAMPP**, and **GitHub CLI**
-- 🎯 Frontend Architecture with a skilled across full stack experiences.
+- 🧠 Self-taught-Architectural Web and Software Developer
+- 🧰 Working With Web applications both Mobile and Desktop Compatibility and Responsives
+- 🎯 Frontend Architecture with skilled across Full Stack Experiences.
 - 📦 Languages & Tools: HTML5, CSS3, JavaScript (ES6), PHP, Node.js, TypeScript, MySQL, NoSQL-json
 - 🛠 Platforms & Tools: Angular, Git, GitHub, CLI, VS Code, SPCK, XAMPP
-- 💼 Currently focused on building dynamic admin systems and clean portfolios
+- 💼 Development with Dynamic Admin Systems and Database Managements Systems
 
 ---
 
