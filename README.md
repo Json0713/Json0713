@@ -67,8 +67,36 @@ A passionate solo developer crafting fast, accessible, and responsive web experi
 
 ## GitHub Stats
 
-![Json0713's GitHub stats](https://github-readme-stats.vercel.app/api?username=Json0713&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Json0713&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Json0713&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Json0713&layout=compact&theme=tokyonight&langs_count=8)
+
+---
+
+## 🔥 Activity & Streaks
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Json0713&theme=tokyonight&border_radius=6)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Json0713&theme=tokyo-night)
+
+---
+
+## 🏆 Achievements
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Json0713&theme=tokyonight&no-frame=true&row=1&column=7)
+
+---
+
+## 📈 Detailed Metrics
+
+![Metrics](https://metrics.lecoq.io/Json0713?template=classic&languages=1&activity=1&stars=1&followup=1&isocalendar=1&theme=tokyonight)
+
+---
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Json0713&color=blueviolet)
+
 
 ---
 
