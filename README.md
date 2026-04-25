@@ -67,8 +67,6 @@ A passionate solo developer crafting fast, accessible, and responsive web experi
 
 ## GitHub Stats
 
-## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Json0713&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Json0713&layout=compact&theme=tokyonight&langs_count=8)
 
