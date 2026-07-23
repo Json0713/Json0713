@@ -1,4 +1,4 @@
-# 🚀 Hi there, I'm Json0713! Full-Stack Developer
+# 🚀 Hi there, I'm Json0713! Full-Stack Developer & Creative Technologist
 
 A passionate, self-taught developer crafting **beautiful**, **scalable**, and **intelligent** web experiences. Specializing in **modern frontend architecture**, **AI-powered applications**, and **full-stack development**.
 
@@ -25,7 +25,8 @@ A passionate, self-taught developer crafting **beautiful**, **scalable**, and **
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3/SCSS](https://img.shields.io/badge/CSS3%2FSCSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0D47A1?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-C66394?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20ES6-D4A017?style=for-the-badge&logo=javascript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
