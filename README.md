@@ -1,4 +1,4 @@
-# 🚀 Hi there, I'm Json0713! Full-Stack Developer & Creative Technologist
+# 🚀 Hi there, I'm Json0713! Full-Stack Developer
 
 A passionate, self-taught developer crafting **beautiful**, **scalable**, and **intelligent** web experiences. Specializing in **modern frontend architecture**, **AI-powered applications**, and **full-stack development**.
 
