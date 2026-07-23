@@ -1,6 +1,6 @@
 # 🚀 Hi there, I'm Json0713! Full-Stack Developer & Creative Technologist
 
-A passionate, self-taught developer crafting **beautiful**, **scalable**, and **intelligent** web experiences. Specializing in **modern frontend architecture**, **AI-powered applications**, and **full-stack automation**. Currently building the future with **Angular**, **TypeScript**, and **cloud technologies**.
+A passionate, self-taught developer crafting **beautiful**, **scalable**, and **intelligent** web experiences. Specializing in **modern frontend architecture**, **AI-powered applications**, and **full-stack development**.
 
 ---
 
@@ -26,11 +26,12 @@ A passionate, self-taught developer crafting **beautiful**, **scalable**, and **
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3/SCSS](https://img.shields.io/badge/CSS3%2FSCSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript%20ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🔧 Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -38,10 +39,10 @@ A passionate, self-taught developer crafting **beautiful**, **scalable**, and **
 
 ### 🤖 AI & Automation
 ![Claude AI](https://img.shields.io/badge/Claude%20AI-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![N8N Automation](https://img.shields.io/badge/N8N%20Workflows-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-1E40AF?style=for-the-badge&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-F05032?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### 🚀 DevOps & Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -53,9 +54,9 @@ A passionate, self-taught developer crafting **beautiful**, **scalable**, and **
 
 ### 📦 Libraries & Tools
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![Quill](https://img.shields.io/badge/Quill%20Editor-EB6C00?style=for-the-badge&logoColor=white)
+![Quill](https://img.shields.io/badge/Quill%20Editor-EB6C00?style=for-the-badge&logo=quill&logoColor=white)
 ![XLSX](https://img.shields.io/badge/Excel%20(XLSX)-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![ZIP/Archive](https://img.shields.io/badge/File%20Processing-4A90E2?style=for-the-badge&logoColor=white)
+![ZIP/Archive](https://img.shields.io/badge/File%20Processing-4A90E2?style=for-the-badge&logo=archiveorg&logoColor=white)
 ![Upstash Redis](https://img.shields.io/badge/Upstash%20Redis-FF0000?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
