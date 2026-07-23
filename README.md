@@ -8,8 +8,9 @@ A passionate, self-taught developer crafting **beautiful**, **scalable**, and **
 
 - **Self-taught Full-Stack & Software Architect** with deep expertise in modern web development
 - **Frontend-First Mindset** with full-stack capabilities across desktop and mobile platforms
-- **AI Integration Enthusiast** — Building intelligent applications with Google Generative AI
-- **Database & Backend Specialist** — MySQL, NoSQL, Supabase, and serverless architectures
+- **AI Integration Enthusiast** — Building intelligent applications with Claude AI and Google Generative AI
+- **Automation Expert** — Building scalable workflows with N8N and Playwright
+- **Database & Backend Specialist** — MySQL, MongoDB, Supabase, and serverless architectures
 - **Component-Based & Modular Architecture** advocate — Clean code, scalable systems
 - **Performance & UX Obsessed** — Optimizing for speed, accessibility, and user delight
 
@@ -22,6 +23,7 @@ A passionate, self-taught developer crafting **beautiful**, **scalable**, and **
 ### 🎯 Frontend Technologies
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3/SCSS](https://img.shields.io/badge/CSS3%2FSCSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -31,25 +33,30 @@ A passionate, self-taught developer crafting **beautiful**, **scalable**, and **
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 
-### 🤖 AI & Emerging Tech
+### 🤖 AI & Automation
+![Claude AI](https://img.shields.io/badge/Claude%20AI-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Upstash](https://img.shields.io/badge/Upstash%20Redis-FF0000?style=for-the-badge&logo=redis&logoColor=white)
-
-### 📦 Libraries & Tools
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![Quill](https://img.shields.io/badge/Quill%20Editor-EB6C00?style=for-the-badge)
-![XLSX](https://img.shields.io/badge/Excel%20(XLSX)-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![ZIP/Archive](https://img.shields.io/badge/File%20Processing-4A90E2?style=for-the-badge)
+![N8N Automation](https://img.shields.io/badge/N8N%20Workflows-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-1E40AF?style=for-the-badge&logoColor=white)
 
 ### 🚀 DevOps & Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![CLI/Terminal](https://img.shields.io/badge/CLI-555555?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 📦 Libraries & Tools
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![Quill](https://img.shields.io/badge/Quill%20Editor-EB6C00?style=for-the-badge&logoColor=white)
+![XLSX](https://img.shields.io/badge/Excel%20(XLSX)-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![ZIP/Archive](https://img.shields.io/badge/File%20Processing-4A90E2?style=for-the-badge&logoColor=white)
+![Upstash Redis](https://img.shields.io/badge/Upstash%20Redis-FF0000?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
@@ -124,13 +131,15 @@ A passionate, self-taught developer crafting **beautiful**, **scalable**, and **
 ✅ Agile Development  
 ✅ Continuous Integration & Deployment  
 ✅ Testing & Debugging  
+✅ Docker Containerization  
 
 ### Specializations
-✅ **Frontend Framework Expertise** — Advanced Angular patterns, reactive programming (RxJS)  
-✅ **AI Integration** — Google Generative AI, prompt engineering, AI-powered features  
+✅ **Frontend Framework Expertise** — Advanced Angular patterns, reactive programming (RxJS), Tailwind CSS styling  
+✅ **AI Integration** — Claude AI, Google Generative AI, Anthropic, prompt engineering, AI-powered features  
+✅ **Automation & Workflows** — N8N automation, Playwright web testing & automation, intelligent process orchestration  
 ✅ **Real-Time Systems** — WebSocket, Redis caching, rate limiting  
 ✅ **File Processing** — Document parsing, Excel handling, ZIP archives  
-✅ **Database Design** — Relational (MySQL) & NoSQL architectures  
+✅ **Database Design** — Relational (MySQL) & NoSQL (MongoDB) architectures, Supabase integration  
 
 ---
 
@@ -175,6 +184,7 @@ I'm always interested in:
 - 🤝 **Collaboration** on open-source or commercial ventures
 - 📚 **Knowledge sharing** and community contribution
 - 🚀 **Challenging problems** that push boundaries
+- 🤖 **AI & Automation workflows** that transform businesses
 
 **Let's build something amazing together!**
 
