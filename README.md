@@ -1,101 +1,185 @@
-# Hi there, I'm a Frontend Developer!
+# 🚀 Hi there, I'm Json0713! Full-Stack Developer & Creative Technologist
 
-A passionate solo developer crafting fast, accessible, and responsive web experiences. Specializing in modular UI, component-based architecture.
-
----
-
-## About Me
-- Self-taught-Architectural Web and Software Development.
-
-- Working With Web applications both Mobile and Desktop Compatibility and Responsives.
-
-- Frontend Architecture with skilled across Full Stack Experiences.
-
-- Languages & Tools: HTML5, CSS3, JavaScript (ES6), PHP, Node.js, TypeScript, MySQL, NoSQL-json.
-
-- Platforms & Tools: Angular, Git, GitHub, CLI, VS Code, XAMPP.
-
-- Development with Dynamic Admin Systems and Database Managements Systems.
+A passionate, self-taught developer crafting **beautiful**, **scalable**, and **intelligent** web experiences. Specializing in **modern frontend architecture**, **AI-powered applications**, and **full-stack automation**. Currently building the future with **Angular**, **TypeScript**, and **cloud technologies**.
 
 ---
 
-## Tech Stack
+## 👨‍💻 About Me
 
-### Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
+- **Self-taught Full-Stack & Software Architect** with deep expertise in modern web development
+- **Frontend-First Mindset** with full-stack capabilities across desktop and mobile platforms
+- **AI Integration Enthusiast** — Building intelligent applications with Google Generative AI
+- **Database & Backend Specialist** — MySQL, NoSQL, Supabase, and serverless architectures
+- **Component-Based & Modular Architecture** advocate — Clean code, scalable systems
+- **Performance & UX Obsessed** — Optimizing for speed, accessibility, and user delight
 
-### Frameworks & Libraries
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?logo=bootstrap&logoColor=white)
-
-### Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-Terminal-555555?logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FA7F24?logo=xampp&logoColor=white)
+**Current Focus**: Building workspace automation tools, AI-assisted productivity apps, and enterprise-grade web applications.
 
 ---
 
-## Featured Projects
+## 🛠️ Modern Tech Stack
 
-### [My Portfolio Website](https://my-portfolio-fawn-six-spddunmlyp.vercel.app/#hero)
-> Built with JavaScript, HTML, CSS, and Bootstrap — A dynamic Single Page Application (SPA) that showcases my skills, projects, and contact info. Designed mobile-first using SPCK and GitHub integration.
+### 🎯 Frontend Technologies
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3/SCSS](https://img.shields.io/badge/CSS3%2FSCSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript%20ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
+### 🔧 Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 
-### [QuizBreaker](https://quiz-breaker-tau.vercel.app/)
-> A simple and fun quiz app built with JavaScript, HTML, CSS, and Bootstrap. One of my early personal projects deployed via Vercel.
+### 🤖 AI & Emerging Tech
+![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Upstash](https://img.shields.io/badge/Upstash%20Redis-FF0000?style=for-the-badge&logo=redis&logoColor=white)
 
----
+### 📦 Libraries & Tools
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![Quill](https://img.shields.io/badge/Quill%20Editor-EB6C00?style=for-the-badge)
+![XLSX](https://img.shields.io/badge/Excel%20(XLSX)-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![ZIP/Archive](https://img.shields.io/badge/File%20Processing-4A90E2?style=for-the-badge)
 
-### LGU ESPERANZA — Dynamic Web Management System *(Capstone Project)*
-> A full-stack CMS dashboard built with PHP, MySQL, HTML/CSS. Designed for municipal-level management with admin CRUD features, citizen tracking, and modular content rendering.
-
----
-
-### MyPOS — Point-of-Sale Web App *(Personal Project)*
-> A responsive, mobile-ready POS/ordering system built with XAMPP, PHP, MySQL, JS, and Bootstrap. Designed for both desktop & mobile usage with customer queue logic and order logging.
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Json0713&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Json0713&layout=compact&theme=tokyonight&langs_count=8)
-
----
-
-## 🔥 Activity & Streaks
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Json0713&theme=tokyonight&border_radius=6)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Json0713&theme=tokyo-night)
-
----
-
-## 🏆 Achievements
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Json0713&theme=tokyonight&no-frame=true&row=1&column=7)
+### 🚀 DevOps & Deployment
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![CLI/Terminal](https://img.shields.io/badge/CLI-555555?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
-## 📈 Detailed Metrics
+## ⭐ Featured Projects
 
-![Metrics](https://metrics.lecoq.io/Json0713?template=classic&languages=1&activity=1&stars=1&followup=1&isocalendar=1&theme=tokyonight)
+### 🌟 **[Quilix](https://quilix.vercel.app)** — Universal Workspace for Learning & Work
+*The Flagship Project — Full-Featured Web Application*
+
+- **Purpose**: A comprehensive workspace platform designed for students, professionals, and teams to manage learning materials, collaborate, and organize their digital lives
+- **Tech Stack**: **Angular 20**, **TypeScript**, **Supabase**, **Google Generative AI**, **RxJS**, **Quill Editor**, **Bootstrap Icons**
+- **Key Features**:
+  - 📝 Rich text editing with Quill editor integration
+  - 📄 Document management (Word, PDF, Excel file handling via Mammoth & XLSX)
+  - 🤖 AI-powered assistant with Google Generative AI integration
+  - ⚡ Rate limiting & real-time data with Upstash Redis
+  - 💾 IndexedDB for offline-first experience (Dexie.js)
+  - 🔐 Secure authentication with Supabase
+  - 🎨 Modern UI with Bootstrap & custom styling
+  - 📦 Archive & export functionality (JSZip)
+  - 💻 Progressive Web App (Service Worker)
+- **Status**: Active development • Live deployment
 
 ---
 
-## 👀 Profile Views
+### 🎨 **[My Portfolio Website](https://my-portfolio-web-j13.vercel.app)**
+*Modern, Mobile-First Portfolio*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Json0713&color=blueviolet)
-
+- **Purpose**: Professional portfolio showcasing my work, skills, and expertise
+- **Tech Stack**: Vanilla **JavaScript** (ES6), **HTML5**, **CSS3**, **Bootstrap**, deployed on **Vercel**
+- **Features**: 
+  - Single Page Application (SPA) with smooth navigation
+  - Component-based architecture using vanilla JS
+  - Responsive design across all devices
+  - GitHub integration & portfolio cards
+  - Contact form integration
+- **Status**: Production • Actively maintained
 
 ---
 
-> Want to collaborate or reach out? You can always find me through my portfolio!
+### 🎓 **[QuizBreaker](https://quiz-breaker-tau.vercel.app)**
+*Interactive Quiz Application*
+
+- **Purpose**: A lightweight, fun quiz platform for knowledge testing
+- **Tech Stack**: **JavaScript**, **HTML5**, **CSS3**, **Bootstrap**
+- **Features**: Interactive quiz mechanics, score tracking, responsive UI
+- **Status**: Production • Deployed via Vercel
+
+---
+
+### 📊 **[MyManagement](https://github.com/Json0713/MyManagement)**
+*Angular-Based Management Dashboard*
+
+- **Purpose**: Experimental dashboard system for data organization and visualization
+- **Tech Stack**: **Angular 20**, **TypeScript**, **SCSS**
+- **Use Case**: Management systems, CRUD operations, admin panels
+- **Status**: Development
+
+---
+
+## 🎯 Skills & Expertise
+
+### Architecture & Design
+✅ Component-Based Architecture  
+✅ Modular & Scalable System Design  
+✅ Full-Stack Application Development  
+✅ Responsive & Mobile-First Design  
+✅ UI/UX Implementation  
+
+### Development Practices
+✅ Clean Code & Best Practices  
+✅ Version Control (Git/GitHub)  
+✅ Agile Development  
+✅ Continuous Integration & Deployment  
+✅ Testing & Debugging  
+
+### Specializations
+✅ **Frontend Framework Expertise** — Advanced Angular patterns, reactive programming (RxJS)  
+✅ **AI Integration** — Google Generative AI, prompt engineering, AI-powered features  
+✅ **Real-Time Systems** — WebSocket, Redis caching, rate limiting  
+✅ **File Processing** — Document parsing, Excel handling, ZIP archives  
+✅ **Database Design** — Relational (MySQL) & NoSQL architectures  
+
+---
+
+## 📊 GitHub Analytics
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Json0713&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Json0713&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+---
+
+## 🔥 Activity & Engagement
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Json0713&theme=tokyonight&border_radius=8&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Json0713&theme=tokyo-night&hide_border=true)
+
+---
+
+## 🏆 Achievements & Recognition
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Json0713&theme=tokyonight&no-frame=true&row=1&column=6&margin-h=5&margin-w=5)
+
+---
+
+## 📈 Contribution Metrics
+
+![Metrics](https://metrics.lecoq.io/Json0713?template=classic&languages=1&activity=1&stars=1&followup=1&isocalendar=1&theme=tokyonight&config.timezone=Asia%2FManila)
+
+---
+
+## 👁️ Profile Analytics
+
+![Profile Views](https://komarev.com/ghpvc/?username=Json0713&color=blueviolet&style=flat-square)
+
+---
+
+## 🌐 Connect & Collaborate
+
+I'm always interested in:
+- 💡 **Innovative projects** combining AI & web technologies
+- 🤝 **Collaboration** on open-source or commercial ventures
+- 📚 **Knowledge sharing** and community contribution
+- 🚀 **Challenging problems** that push boundaries
+
+**Let's build something amazing together!**
+
+> 💬 Feel free to reach out through [my portfolio](https://my-portfolio-web-j13.vercel.app) or connect with me on GitHub
+
+---
+
+*Last updated: July 2026 | Always evolving. Always learning. Always coding.* ⚡
