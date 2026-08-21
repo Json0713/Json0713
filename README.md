@@ -101,29 +101,16 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<table align="center" border="0" width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align="center" width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Json0713&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0D1117" alt="Github Stats" />
-    </td>
-    <td align="center" width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Json0713&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" style="border: none;">
-      <img src="https://streak-stats.demolab.com?user=Json0713&theme=tokyonight&border_radius=8&hide_border=true&background=0D1117" alt="GitHub Streak" />
-    </td>
-    <td align="center" width="50%" style="border: none;">
-      <img src="https://github-profile-trophy.vercel.app/?username=Json0713&theme=tokyonight&no-frame=true&row=2&column=3&margin-h=15&margin-w=5" alt="GitHub Trophies" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Json0713&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Json0713&theme=tokyonight" width="49%" />
+</div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Json0713&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="80%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Json0713&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Json0713&theme=tokyonight&utcOffset=8" width="49%" />
 </div>
 
 <br>
