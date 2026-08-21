@@ -115,7 +115,7 @@
 
 <br><br>
 
-<h2 align="center">🌐 Connect & Collaborate</h2>
+<h2 align="center">🌐 Connect to Me</h2>
 
 <div align="center">
   <a href="https://my-portfolio-web-j13.vercel.app"><img src="https://img.shields.io/badge/Portfolio-3178C6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -123,13 +123,13 @@
 </div>
 
 <p align="center">
-  <i>💡 Innovative projects | 🤝 Collaboration | 🚀 Challenging problems | 🤖 AI & Automation</i>
+  <i>💡 Innovative Projects | 🚀 Indie Dev | 🤖 AI & Automation | 💻 Open Source Projects</i>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="40" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" />
   <br>
-  <b>Let's build something amazing together!</b>
+  <b>Feel free to explore my repositories and check out my portfolio!</b>
 </p>
 
 <hr>
